@@ -15,8 +15,8 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "Merkeleon\\Events\\": "src/"
+        "psr-4": {
+            "Merkeleon\\Events\\": "src/Merkeleon/"
         }
     },
     "extra": {
